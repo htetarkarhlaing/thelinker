@@ -1,0 +1,21 @@
+{
+    "name": "the-linker",
+    "displayName": "The Linker for Coders",
+    "description": "Dark color theme with cool colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Not for You",
+                "uiTheme": "vs-dark",
+                "path": "./themes/The-Linker-color-theme.json"
+            }
+        ]
+    }
+}
